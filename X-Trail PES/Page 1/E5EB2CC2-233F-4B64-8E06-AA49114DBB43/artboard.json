@@ -88,38 +88,6 @@
     },
     {
       "class": "group",
-      "id": "CCFBAE93-428F-4021-B953-02FBB2D4C1ED"
-    },
-    {
-      "class": "group",
-      "id": "8A76C93E-0C8F-4082-BB70-5D176EAFE6B9"
-    },
-    {
-      "class": "group",
-      "id": "FCE2F6E0-7479-410F-B6DF-6B607C7CD7EF"
-    },
-    {
-      "class": "group",
-      "id": "D5AFBCB1-9A60-4B23-8050-9B03CEA2F803"
-    },
-    {
-      "class": "group",
-      "id": "A41AF705-20ED-4F32-B172-F4CA56546015"
-    },
-    {
-      "class": "group",
-      "id": "D94BB677-25AA-4E55-93D8-1218FA5B5647"
-    },
-    {
-      "class": "group",
-      "id": "6D7BE395-A433-4770-AB28-2946D26D0EE9"
-    },
-    {
-      "class": "group",
-      "id": "F4283920-34C7-4CFA-957B-271AA4883BA6"
-    },
-    {
-      "class": "group",
       "id": "31B44371-4CAE-494A-9A11-EF82AB886C5D"
     },
     {
@@ -137,6 +105,10 @@
     {
       "class": "group",
       "id": "937FDFAE-4413-4971-80CB-152B756B3A93"
+    },
+    {
+      "class": "group",
+      "id": "11D7E21E-7757-475C-B5E8-5FE36EBAAA30"
     }
   ],
   "name": "x-trail_overview",

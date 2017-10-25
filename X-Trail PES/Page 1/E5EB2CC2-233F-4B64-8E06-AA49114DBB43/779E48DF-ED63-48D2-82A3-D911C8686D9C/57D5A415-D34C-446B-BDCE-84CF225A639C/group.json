@@ -28,6 +28,10 @@
     {
       "class": "shapeGroup",
       "id": "100F46CF-A5D9-4467-B23E-FD0350C647B6"
+    },
+    {
+      "class": "bitmap",
+      "id": "193678BE-3822-498B-B7F5-86224E8485A2"
     }
   ],
   "name": "Group 2",

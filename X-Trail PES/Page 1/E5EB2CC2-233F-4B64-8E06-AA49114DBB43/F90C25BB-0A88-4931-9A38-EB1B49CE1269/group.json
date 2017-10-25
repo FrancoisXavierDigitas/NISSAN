@@ -22,17 +22,17 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 870,
+    "height": 411,
     "width": 1159,
     "x": 61,
-    "y": 1451
+    "y": 1442
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "text",
@@ -47,12 +47,8 @@
       "id": "DF577695-D753-47C5-9C34-ACDA12FF2204"
     },
     {
-      "class": "shapeGroup",
-      "id": "820C16F4-643F-4446-AB41-9990169B92DD"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "3AB3F3FB-259B-4B32-82CB-145680F6395F"
+      "class": "group",
+      "id": "8439C01A-2A4C-4AD9-9C5C-137D906AC14A"
     },
     {
       "class": "group",

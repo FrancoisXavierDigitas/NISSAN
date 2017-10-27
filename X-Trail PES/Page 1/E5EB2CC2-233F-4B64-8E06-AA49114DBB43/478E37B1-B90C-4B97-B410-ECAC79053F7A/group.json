@@ -22,17 +22,17 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 810,
+    "height": 800,
     "width": 1265,
     "x": 7,
-    "y": 2429
+    "y": 2392
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",

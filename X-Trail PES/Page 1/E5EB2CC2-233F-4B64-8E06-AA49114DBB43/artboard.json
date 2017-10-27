@@ -29,13 +29,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 4972,
+    "height": 4645,
     "width": 1280,
     "x": 598,
     "y": -2981
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -79,12 +79,12 @@
       "id": "D18C1435-6D58-4167-9617-FF10F0001EFB"
     },
     {
-      "class": "group",
-      "id": "77E14FFE-2F8D-4009-A891-0A4C8652FAE6"
+      "class": "shapeGroup",
+      "id": "204E8E09-D04C-4335-8CFD-E065C388162B"
     },
     {
       "class": "group",
-      "id": "643D8E50-CC18-4E37-8CD2-505A2AA81163"
+      "id": "77E14FFE-2F8D-4009-A891-0A4C8652FAE6"
     },
     {
       "class": "group",
@@ -109,9 +109,13 @@
     {
       "class": "group",
       "id": "11D7E21E-7757-475C-B5E8-5FE36EBAAA30"
+    },
+    {
+      "class": "slice",
+      "id": "D4AE0B2C-0033-4081-8E4D-ED2F839B6568"
     }
   ],
-  "name": "x-trail_overview",
+  "name": "x-Trail Overview",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

@@ -22,10 +22,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 40,
-    "width": 334,
+    "height": 21,
+    "width": 157,
     "x": 853,
-    "y": 2288
+    "y": 2270
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,

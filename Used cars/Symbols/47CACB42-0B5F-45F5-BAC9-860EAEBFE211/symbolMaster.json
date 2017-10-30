@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 707,
+  "changeIdentifier": 717,
   "do_objectID": "47CACB42-0B5F-45F5-BAC9-860EAEBFE211",
   "exportOptions": {
     "_class": "exportOptions",
@@ -50,6 +50,7 @@
   ],
   "name": "car image 3",
   "nameIsFixed": true,
+  "originalObjectID": "47CACB42-0B5F-45F5-BAC9-860EAEBFE211",
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

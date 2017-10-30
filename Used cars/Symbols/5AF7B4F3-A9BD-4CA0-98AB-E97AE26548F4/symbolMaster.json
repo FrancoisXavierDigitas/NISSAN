@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 143,
+  "changeIdentifier": 144,
   "do_objectID": "5AF7B4F3-A9BD-4CA0-98AB-E97AE26548F4",
   "exportOptions": {
     "_class": "exportOptions",
@@ -50,6 +50,7 @@
   ],
   "name": "result-mobile-collapsed",
   "nameIsFixed": false,
+  "originalObjectID": "5AF7B4F3-A9BD-4CA0-98AB-E97AE26548F4",
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

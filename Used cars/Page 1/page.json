@@ -34,7 +34,15 @@
   "layers": [
     {
       "class": "artboard",
+      "id": "3B4DF5A8-675E-40AB-9FA5-F8558FFEC5F1"
+    },
+    {
+      "class": "artboard",
       "id": "B770DEC3-7438-4478-98F9-303FD3AC00F8"
+    },
+    {
+      "class": "artboard",
+      "id": "56E6957C-659A-470F-90E6-CA3C79A79470"
     },
     {
       "class": "artboard",

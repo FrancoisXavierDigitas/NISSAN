@@ -30,6 +30,13 @@
   "masterInfluenceEdgeMinYPadding": 0,
   "name": "result",
   "nameIsFixed": false,
+  "overrides": {
+    "E47C8555-99CC-4C94-9296-DE6265C1F3B4": {
+      "27A65A20-3FA6-4E1B-8507-65F339AF639F": {
+        "symbolID": "94C1A385-B36E-409E-A66C-B7C3379D023A"
+      }
+    }
+  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

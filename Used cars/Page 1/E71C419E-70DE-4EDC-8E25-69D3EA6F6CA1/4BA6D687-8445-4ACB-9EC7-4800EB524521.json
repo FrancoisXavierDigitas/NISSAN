@@ -30,6 +30,15 @@
   "masterInfluenceEdgeMinYPadding": 0,
   "name": "result copy 2",
   "nameIsFixed": false,
+  "overrides": {
+    "01088F1A-11B5-46E1-9634-5E9F6D64CA3A": "NJ11SSK",
+    "31B7DBE7-2B51-4FD7-A151-C566DFACB244": "Acenta",
+    "90E78FC8-EA5D-453D-8EB1-26DD086F53A0": "61,1183 km",
+    "A9AF8A7D-4859-46EE-B6E9-8506F8CA9B1A": "£ 3,980",
+    "DEF9B41E-F7FD-4029-A68F-1325675BFF81": {
+      "symbolID": "1A210854-723E-4737-978E-BB288F4415B7"
+    }
+  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

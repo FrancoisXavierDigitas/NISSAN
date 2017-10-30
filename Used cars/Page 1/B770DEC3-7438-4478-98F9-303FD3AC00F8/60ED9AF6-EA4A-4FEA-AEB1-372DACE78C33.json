@@ -1,0 +1,51 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "60ED9AF6-EA4A-4FEA-AEB1-372DACE78C33",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 466,
+    "width": 280,
+    "x": 20,
+    "y": 1340
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 1,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "result-mobile-collapsed copy",
+  "nameIsFixed": false,
+  "overrides": {
+    "D510E3D0-FBF3-495D-B0AE-CB3AA6E804CB": {
+      "symbolID": "1A210854-723E-4737-978E-BB288F4415B7"
+    },
+    "ED06C013-1E7E-496C-8E97-1BC8484033F9": "£ 3,980"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "9A895D19-D637-455C-B611-48EA12C504B4",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "7AC77C22-26B1-4771-9091-939A1B97C08F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 40,
+    "width": 708,
+    "x": 30,
+    "y": 1366
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "2A97E3A2-ED10-4F2B-B4F1-684515A7700A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "EC7EE684-D3A8-4269-AF6D-EA3D1CD324B6"
+    },
+    {
+      "class": "text",
+      "id": "6CEDE236-DC9E-41F2-B835-92C00A41AE89"
+    }
+  ],
+  "name": "CO2",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

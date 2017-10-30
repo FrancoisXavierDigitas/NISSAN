@@ -1,0 +1,109 @@
+{
+  "_class": "group",
+  "do_objectID": "697148FE-EE64-4885-8296-87696D7E6AF5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1602,
+    "width": 768,
+    "x": 0,
+    "y": 68
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "6EBE4181-34F9-4428-AF30-D4B0B90EDFA5"
+    },
+    {
+      "class": "text",
+      "id": "0F9C3C1E-B580-4FA4-80B5-41044E0FFE5F"
+    },
+    {
+      "class": "group",
+      "id": "111FFA57-BB50-49E3-83A1-B3367F698F99"
+    },
+    {
+      "class": "group",
+      "id": "1E25B9A8-857B-4601-9118-9FD27EA41533"
+    },
+    {
+      "class": "group",
+      "id": "B0C29186-FBF7-4DD8-8E46-07EECC45523D"
+    },
+    {
+      "class": "group",
+      "id": "222BC5A0-362D-4A89-9DE1-7DAD6CFB038A"
+    },
+    {
+      "class": "group",
+      "id": "1696959C-B2CE-4F5E-A0B7-C914B59D9EA5"
+    },
+    {
+      "class": "group",
+      "id": "2B6CD358-13CA-4ACB-B2B3-8DBF200E4002"
+    },
+    {
+      "class": "group",
+      "id": "8E5193B9-AFA6-480A-AED6-0FADFF31BC03"
+    },
+    {
+      "class": "group",
+      "id": "E0C2B90D-F236-4C7A-9539-213B9B2FC76D"
+    },
+    {
+      "class": "group",
+      "id": "7E05ACE0-0B50-475E-B30B-F2761E725811"
+    },
+    {
+      "class": "group",
+      "id": "7C4C2545-A462-4682-9372-9AFA34E02C44"
+    },
+    {
+      "class": "group",
+      "id": "17EE221C-644F-420A-B432-01069CFDFA4D"
+    },
+    {
+      "class": "group",
+      "id": "7AC77C22-26B1-4771-9091-939A1B97C08F"
+    },
+    {
+      "class": "group",
+      "id": "B8DD5C1E-EBCB-4EBF-BFA8-4104898E0EDC"
+    },
+    {
+      "class": "group",
+      "id": "33F241C1-6E2C-499F-87CC-A99E2ABD38B9"
+    },
+    {
+      "class": "group",
+      "id": "52C33747-EE71-49FA-AA7E-9D2E52F0222D"
+    }
+  ],
+  "name": "left column",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

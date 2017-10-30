@@ -30,6 +30,16 @@
   "masterInfluenceEdgeMinYPadding": 0,
   "name": "result copy 4",
   "nameIsFixed": false,
+  "overrides": {
+    "01088F1A-11B5-46E1-9634-5E9F6D64CA3A": "YK11GRF",
+    "31B7DBE7-2B51-4FD7-A151-C566DFACB244": "Acenta",
+    "90E78FC8-EA5D-453D-8EB1-26DD086F53A0": "23,596 km",
+    "A9AF8A7D-4859-46EE-B6E9-8506F8CA9B1A": "£ 4,495",
+    "D53B54A9-1795-4CCA-9675-756D0E18D4F7": "Shiraz",
+    "DEF9B41E-F7FD-4029-A68F-1325675BFF81": {
+      "symbolID": "88A641A3-3BDE-4A0A-8BA9-2D36A0CEA067"
+    }
+  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

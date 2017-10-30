@@ -30,6 +30,15 @@
   "masterInfluenceEdgeMinYPadding": 0,
   "name": "result copy 3",
   "nameIsFixed": false,
+  "overrides": {
+    "01088F1A-11B5-46E1-9634-5E9F6D64CA3A": "GY11RYR",
+    "90E78FC8-EA5D-453D-8EB1-26DD086F53A0": "23,404 km",
+    "A9AF8A7D-4859-46EE-B6E9-8506F8CA9B1A": "£ 4,000",
+    "D53B54A9-1795-4CCA-9675-756D0E18D4F7": "Universal Silver",
+    "DEF9B41E-F7FD-4029-A68F-1325675BFF81": {
+      "symbolID": "0D4AE4F0-126E-46D4-9EC9-1C2CFCD40BF7"
+    }
+  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

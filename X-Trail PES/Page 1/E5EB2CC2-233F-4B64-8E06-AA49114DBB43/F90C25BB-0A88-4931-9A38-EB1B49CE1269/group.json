@@ -22,10 +22,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 414,
+    "height": 411,
     "width": 1159,
     "x": 61,
-    "y": 1379
+    "y": 1382
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
@@ -34,6 +34,10 @@
   "isVisible": true,
   "layerListExpandedType": 2,
   "layers": [
+    {
+      "class": "text",
+      "id": "632A667B-F51A-4B41-899C-E7FAC514D7E3"
+    },
     {
       "class": "text",
       "id": "577A941A-8231-4468-82BA-B6101BE969B5"

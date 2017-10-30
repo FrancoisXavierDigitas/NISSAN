@@ -20,13 +20,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 2605,
+    "height": 2538,
     "width": 1265,
     "x": 585,
     "y": -899
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -39,8 +39,12 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
+    {
+      "class": "group",
+      "id": "6E9ACFE4-4138-4110-9502-B8CB14B586A0"
+    },
     {
       "class": "symbolInstance",
       "id": "34F08E2F-F353-485C-9E8E-E6535874D982"
@@ -48,6 +52,18 @@
     {
       "class": "symbolInstance",
       "id": "0C91FDD7-9E48-461A-8C2E-CD621316327A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "020E8964-3FD4-44F2-93F6-12ED6D045C4C"
+    },
+    {
+      "class": "group",
+      "id": "FD2CBF5E-0D0A-400E-9C19-D491E64F3C61"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6D7923C8-770E-46CC-88BF-E669EA8CBAAF"
     },
     {
       "class": "symbolInstance",
@@ -78,8 +94,8 @@
       "id": "00FE73CC-36D9-4C88-96BA-9ECE3B29AE7F"
     }
   ],
-  "name": "Desktop",
-  "nameIsFixed": false,
+  "name": "Desktop-SearchResults",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

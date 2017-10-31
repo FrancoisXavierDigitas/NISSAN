@@ -24,7 +24,7 @@
     "constrainProportions": false,
     "height": 682,
     "width": 1265,
-    "x": 8,
+    "x": 9,
     "y": 199
   },
   "hasClickThrough": false,
@@ -57,6 +57,10 @@
     {
       "class": "text",
       "id": "3F8AFA6D-EEB5-46A9-9508-CD5F57879B3C"
+    },
+    {
+      "class": "group",
+      "id": "64311398-CC05-4313-8FB0-0C42942B9AAA"
     }
   ],
   "name": "Group 11",

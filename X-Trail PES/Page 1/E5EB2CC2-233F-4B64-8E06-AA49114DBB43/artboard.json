@@ -29,11 +29,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-<<<<<<< HEAD
-    "height": 5045,
-=======
     "height": 4972,
->>>>>>> 1148a1f41f1d8e65a957a5816fb844cbc2adf6e9
     "width": 1280,
     "x": 598,
     "y": -2981
@@ -113,17 +109,6 @@
     {
       "class": "group",
       "id": "11D7E21E-7757-475C-B5E8-5FE36EBAAA30"
-<<<<<<< HEAD
-    },
-    {
-      "class": "bitmap",
-      "id": "637BDF8A-9934-4FF6-96B0-3287CE9DC53F"
-    },
-    {
-      "class": "group",
-      "id": "643D8E50-CC18-4E37-8CD2-505A2AA81163"
-=======
->>>>>>> 1148a1f41f1d8e65a957a5816fb844cbc2adf6e9
     }
   ],
   "name": "x-trail_overview",

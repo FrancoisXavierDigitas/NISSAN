@@ -1,19 +1,10 @@
 {
   "_class": "shapeGroup",
   "clippingMaskMode": 0,
-  "do_objectID": "D18C1435-6D58-4167-9617-FF10F0001EFB",
+  "do_objectID": "3597D3F9-2940-442A-AA48-FC190D14A94E",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
-      {
-        "_class": "exportFormat",
-        "absoluteSize": 0,
-        "fileFormat": "png",
-        "name": "",
-        "namingScheme": 0,
-        "scale": 1,
-        "visibleScaleType": 0
-      }
     ],
     "includedLayerIds": [
     ],
@@ -23,10 +14,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1,
-    "width": 1265,
-    "x": 8,
-    "y": 2378
+    "height": 11,
+    "width": 7,
+    "x": 6,
+    "y": 4
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -37,34 +28,19 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "73940260-31ED-4617-A2A1-9762E380B2B0"
+      "class": "shapePath",
+      "id": "BD76F99F-FAB0-40A0-9638-113F6B75609D"
     }
   ],
-  "name": "Rectangle 4 Copy 11",
+  "name": "Shape",
   "nameIsFixed": false,
+  "originalObjectID": "56813414-EA1D-4D3B-B6A1-04B25117448B",
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "borders": [
-      {
-        "_class": "border",
-        "color": {
-          "_class": "color",
-          "alpha": 1,
-          "blue": 0.592,
-          "green": 0.592,
-          "red": 0.592
-        },
-        "fillType": 0,
-        "isEnabled": false,
-        "position": 1,
-        "thickness": 1
-      }
-    ],
     "endDecorationType": 0,
     "fills": [
       {
@@ -72,15 +48,15 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.8699776785714286,
-          "green": 0.8699776785714286,
-          "red": 0.8699776785714286
+          "blue": 1,
+          "green": 1,
+          "red": 1
         },
         "fillType": 0,
         "isEnabled": true,
         "noiseIndex": 0,
         "noiseIntensity": 0,
-        "patternFillType": 1,
+        "patternFillType": 0,
         "patternTileScale": 1
       }
     ],

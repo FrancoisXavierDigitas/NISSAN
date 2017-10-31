@@ -14,8 +14,8 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 44,
-    "width": 150,
-    "x": 472,
+    "width": 112,
+    "x": 698,
     "y": 324
   },
   "hasClickThrough": false,
@@ -23,7 +23,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "shapeGroup",
@@ -40,6 +40,7 @@
   ],
   "name": "button",
   "nameIsFixed": true,
+  "originalObjectID": "72F6E5C6-5C3E-4E59-8A0D-4BB307AE017E",
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

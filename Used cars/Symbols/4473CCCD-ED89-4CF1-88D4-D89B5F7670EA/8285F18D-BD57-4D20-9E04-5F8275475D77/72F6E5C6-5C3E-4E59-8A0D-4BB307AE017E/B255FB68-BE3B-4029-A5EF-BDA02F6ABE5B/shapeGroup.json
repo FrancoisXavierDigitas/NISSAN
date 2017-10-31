@@ -15,7 +15,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 44,
-    "width": 150,
+    "width": 112,
     "x": 0,
     "y": 0
   },
@@ -34,6 +34,7 @@
   ],
   "name": "Rectangle 5",
   "nameIsFixed": false,
+  "originalObjectID": "B255FB68-BE3B-4029-A5EF-BDA02F6ABE5B",
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

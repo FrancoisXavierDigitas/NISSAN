@@ -30,6 +30,17 @@
   "masterInfluenceEdgeMinYPadding": 0,
   "name": "result copy",
   "nameIsFixed": false,
+  "originalObjectID": "4473CCCD-ED89-4CF1-88D4-D89B5F7670EA",
+  "overrides": {
+    "01088F1A-11B5-46E1-9634-5E9F6D64CA3A": "NA62YYV",
+    "90E78FC8-EA5D-453D-8EB1-26DD086F53A0": "46,132 km",
+    "A9AF8A7D-4859-46EE-B6E9-8506F8CA9B1A": "£ 3,979",
+    "B7C69C74-72B6-46EA-AC0E-7569C8ABB91C": "Nissan Micra hatchback 5-door 1.2",
+    "D53B54A9-1795-4CCA-9675-756D0E18D4F7": "Tungsten Grey",
+    "DEF9B41E-F7FD-4029-A68F-1325675BFF81": {
+      "symbolID": "9403FE28-4F08-4F80-B0EC-C21DF93D99F5"
+    }
+  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

@@ -43,7 +43,15 @@
     },
     {
       "class": "text",
+      "id": "C04AACFE-8C4C-48DD-ACD8-3CBF6ABC5286"
+    },
+    {
+      "class": "text",
       "id": "9DC71137-5A7A-46CD-B769-710701440F7B"
+    },
+    {
+      "class": "text",
+      "id": "01088F1A-11B5-46E1-9634-5E9F6D64CA3A"
     },
     {
       "class": "text",
@@ -51,11 +59,23 @@
     },
     {
       "class": "text",
+      "id": "90E78FC8-EA5D-453D-8EB1-26DD086F53A0"
+    },
+    {
+      "class": "text",
       "id": "3EED6EB0-375D-4121-A4ED-21FB81229814"
     },
     {
       "class": "text",
+      "id": "31B7DBE7-2B51-4FD7-A151-C566DFACB244"
+    },
+    {
+      "class": "text",
       "id": "A97EB8AD-C9AD-46D3-BD0F-921EF65D9780"
+    },
+    {
+      "class": "text",
+      "id": "D53B54A9-1795-4CCA-9675-756D0E18D4F7"
     },
     {
       "class": "text",
@@ -70,8 +90,8 @@
       "id": "72F6E5C6-5C3E-4E59-8A0D-4BB307AE017E"
     },
     {
-      "class": "group",
-      "id": "0256052C-9BDE-43C4-BFB5-E4003B06BB22"
+      "class": "symbolInstance",
+      "id": "E47C8555-99CC-4C94-9296-DE6265C1F3B4"
     },
     {
       "class": "text",
@@ -88,6 +108,7 @@
   ],
   "name": "result",
   "nameIsFixed": true,
+  "originalObjectID": "8285F18D-BD57-4D20-9E04-5F8275475D77",
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

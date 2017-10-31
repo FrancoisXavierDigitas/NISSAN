@@ -26,7 +26,11 @@
     "height": 1,
     "width": 1265,
     "x": 8,
+<<<<<<< HEAD
     "y": 2395
+=======
+    "y": 2378
+>>>>>>> 1148a1f41f1d8e65a957a5816fb844cbc2adf6e9
   },
   "hasClickThrough": false,
   "hasClippingMask": false,

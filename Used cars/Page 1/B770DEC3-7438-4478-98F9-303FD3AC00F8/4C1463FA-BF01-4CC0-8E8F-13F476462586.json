@@ -1,0 +1,54 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "4C1463FA-BF01-4CC0-8E8F-13F476462586",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 595,
+    "width": 280,
+    "x": 20,
+    "y": 725
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "result-mobile",
+  "nameIsFixed": false,
+  "originalObjectID": "70C05B7F-E3C1-48FA-A68C-10C851316B05",
+  "overrides": {
+    "11924A50-48CB-4234-9428-57F5DF1877F3": {
+      "symbolID": "9403FE28-4F08-4F80-B0EC-C21DF93D99F5"
+    },
+    "3CDE2460-AB9C-4BC8-90DA-7E8CE50DECF0": "£ 3,979",
+    "9A95163B-51D0-43F1-A2F0-854A643A6768": "46,132 km",
+    "BED5D00D-F77D-42B6-BBF7-81B9FB74F209": "NA62YYV"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "380EB44A-3180-493E-8803-3F9F362C8694",
+  "verticalSpacing": 0
+}

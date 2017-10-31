@@ -37,8 +37,20 @@
       "id": "E5EB2CC2-233F-4B64-8E06-AA49114DBB43"
     },
     {
-      "class": "group",
-      "id": "643D8E50-CC18-4E37-8CD2-505A2AA81163"
+      "class": "artboard",
+      "id": "B1EF59DE-0C17-426C-8B2C-95AE32C06BD6"
+    },
+    {
+      "class": "bitmap",
+      "id": "4C47B391-761D-49D4-B6C5-E28F5062FA37"
+    },
+    {
+      "class": "text",
+      "id": "10E3731F-BF9A-4281-962D-2FC737CB5C2D"
+    },
+    {
+      "class": "text",
+      "id": "64DA346D-E20B-4A4D-96EE-5F3C08C09D98"
     }
   ],
   "name": "Page 1",
@@ -52,11 +64,6 @@
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
-  },
-  "userInfo": {
-    "com.invision.prototype": {
-      "includeHotspotsWhenSyncing": 0
-    }
   },
   "verticalRulerData": {
     "_class": "rulerData",

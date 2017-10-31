@@ -29,7 +29,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 4645,
+    "height": 5045,
     "width": 1280,
     "x": 598,
     "y": -2981
@@ -111,8 +111,12 @@
       "id": "11D7E21E-7757-475C-B5E8-5FE36EBAAA30"
     },
     {
-      "class": "slice",
-      "id": "D4AE0B2C-0033-4081-8E4D-ED2F839B6568"
+      "class": "bitmap",
+      "id": "637BDF8A-9934-4FF6-96B0-3287CE9DC53F"
+    },
+    {
+      "class": "group",
+      "id": "643D8E50-CC18-4E37-8CD2-505A2AA81163"
     }
   ],
   "name": "x-Trail Overview",

@@ -75,35 +75,15 @@
     },
     {
       "class": "shapeGroup",
-      "id": "4EF2BEF0-AD0D-4C51-8891-51450AE8B699"
-    },
-    {
-      "class": "text",
-      "id": "A6ACB191-2D32-45FD-B7EA-1230A38353F2"
-    },
-    {
-      "class": "shapeGroup",
       "id": "4B83B4FC-F327-4BC2-A309-016FEB4885EF"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "DD2FAEA7-4116-44BA-AF36-909AA12B1BD8"
-    },
-    {
-      "class": "text",
-      "id": "A03DB063-A242-4025-A422-C91B0239E78A"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "E35897C6-83DA-44F8-A662-159991D1093A"
     },
     {
       "class": "shapeGroup",
       "id": "15B9245D-2CFE-43EF-B88B-64CBE79C0E84"
     },
     {
-      "class": "text",
-      "id": "FEB8FFDE-2052-401A-A828-B35B6BF80345"
+      "class": "group",
+      "id": "7A1F7DAA-91B6-4E97-A7E6-0559DB05CCD9"
     },
     {
       "class": "text",

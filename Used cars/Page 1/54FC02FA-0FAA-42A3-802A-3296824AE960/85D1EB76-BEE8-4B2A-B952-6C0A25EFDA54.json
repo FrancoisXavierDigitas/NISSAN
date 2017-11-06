@@ -1,0 +1,55 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "85D1EB76-BEE8-4B2A-B952-6C0A25EFDA54",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 398,
+    "width": 885,
+    "x": 350,
+    "y": 1579
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": true,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "result copy 3",
+  "nameIsFixed": false,
+  "originalObjectID": "4473CCCD-ED89-4CF1-88D4-D89B5F7670EA",
+  "overrides": {
+    "01088F1A-11B5-46E1-9634-5E9F6D64CA3A": "GY11RYR",
+    "90E78FC8-EA5D-453D-8EB1-26DD086F53A0": "23,404 km",
+    "A9AF8A7D-4859-46EE-B6E9-8506F8CA9B1A": "£ 4,000",
+    "D53B54A9-1795-4CCA-9675-756D0E18D4F7": "Universal Silver",
+    "DEF9B41E-F7FD-4029-A68F-1325675BFF81": {
+      "symbolID": "0D4AE4F0-126E-46D4-9EC9-1C2CFCD40BF7"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "6A61EB68-0FC7-4BE6-B68D-4856307B7F91",
+  "verticalSpacing": 0
+}

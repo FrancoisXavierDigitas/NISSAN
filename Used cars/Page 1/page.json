@@ -42,6 +42,10 @@
     },
     {
       "class": "artboard",
+      "id": "96887385-C53A-477A-B554-3C800CDA01CC"
+    },
+    {
+      "class": "artboard",
       "id": "56E6957C-659A-470F-90E6-CA3C79A79470"
     },
     {
@@ -50,7 +54,67 @@
     },
     {
       "class": "artboard",
+      "id": "17F215A9-EB34-41E8-ACC5-187262E98807"
+    },
+    {
+      "class": "artboard",
       "id": "E71C419E-70DE-4EDC-8E25-69D3EA6F6CA1"
+    },
+    {
+      "class": "artboard",
+      "id": "54FC02FA-0FAA-42A3-802A-3296824AE960"
+    },
+    {
+      "class": "artboard",
+      "id": "CD5F9BCA-95DB-4D94-A060-91D2357988A0"
+    },
+    {
+      "class": "text",
+      "id": "47CD7F25-07A6-4CD8-9BA2-DC3E5F1D4025"
+    },
+    {
+      "class": "text",
+      "id": "803DAA99-1AE3-4C39-A168-7FB0A07EE888"
+    },
+    {
+      "class": "text",
+      "id": "7298B832-0FAA-4BDD-A537-8D151C940905"
+    },
+    {
+      "class": "bitmap",
+      "id": "268A926F-5026-452C-888B-13DAD4F190E9"
+    },
+    {
+      "class": "bitmap",
+      "id": "61BB1D6A-85F2-4332-9335-9524C47FBAE2"
+    },
+    {
+      "class": "bitmap",
+      "id": "3042F936-C9E6-4D51-96B2-F063BC78C8E0"
+    },
+    {
+      "class": "bitmap",
+      "id": "D5666677-5421-440C-A8C5-3F60DA910D3A"
+    },
+    {
+      "class": "group",
+      "id": "9546ABA1-2958-4947-8A32-65B730FA305D"
+    },
+    {
+      "class": "group",
+      "id": "AF5FE8F0-9451-4F70-9145-34D7ED706C61"
+    },
+    {
+      "class": "group",
+      "id": "0F923174-0522-4B1E-96F6-B66B1766A20E"
+    },
+    {
+      "class": "group",
+      "id": "12564CF5-0AD2-4703-9CF7-092CCC577FEA"
+    },
+    {
+      "class": "group",
+      "id": "52C33747-EE71-49FA-AA7E-9D2E52F0222D"
     }
   ],
   "name": "Page 1",

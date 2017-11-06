@@ -14,28 +14,24 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 44,
-    "width": 280,
-    "x": 0,
-    "y": 507
+    "width": 235,
+    "x": 45,
+    "y": 536
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "shapeGroup",
       "id": "2F56A1EA-1C72-403B-B5D8-F2CA7A99A934"
     },
     {
-      "class": "text",
-      "id": "4B52A704-5964-4D06-86FF-CE640A13A9C4"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "1FEFB2CF-3971-46FC-A561-FEB7BE45F40D"
+      "class": "group",
+      "id": "5DF20B41-FC16-454F-8D65-B3548B9C0307"
     }
   ],
   "name": "button",

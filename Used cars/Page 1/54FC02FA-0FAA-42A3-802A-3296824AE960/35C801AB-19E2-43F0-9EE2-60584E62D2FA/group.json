@@ -1,0 +1,125 @@
+{
+  "_class": "group",
+  "do_objectID": "35C801AB-19E2-43F0-9EE2-60584E62D2FA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 152,
+    "width": 1265,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": true,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "F3782B2A-8233-4351-A7C6-A45C038E8E52"
+    },
+    {
+      "class": "text",
+      "id": "A3C0D894-FB3A-47D8-B69E-C5BAE92C86C8"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B63DEFD0-4329-4652-BE64-B863C60D719A"
+    },
+    {
+      "class": "text",
+      "id": "B3172C20-4788-4EBC-9612-5870F5105613"
+    },
+    {
+      "class": "text",
+      "id": "2BDD6B9A-3C52-4477-AF20-652E303754A6"
+    },
+    {
+      "class": "text",
+      "id": "8121DAC1-B7C1-46BD-8A30-47AC3D653F38"
+    },
+    {
+      "class": "text",
+      "id": "8BAFCB34-C7EE-4718-82BE-51DD300AFB09"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "56897560-977B-4C03-BC59-266CD374A0E6"
+    },
+    {
+      "class": "group",
+      "id": "FD9216EE-45A7-4F11-80BF-0B2EBD76E5E4"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F3907D3B-1DFF-4558-A4AD-9DB387F61834"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "13CD84A4-8652-4611-BF9F-D318FCEEC626"
+    },
+    {
+      "class": "text",
+      "id": "99F3831E-5992-4424-A9A6-E16EF1868AD0"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9C128960-B9F2-464C-9C1C-CABB0832AC1E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "56DCC51A-6139-4891-827C-71BB022B3C3A"
+    },
+    {
+      "class": "text",
+      "id": "D775D912-C96F-4A84-A95B-DFDAC91480CF"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "BF9CF0D5-86BF-43C5-9D4E-FF3444BABD88"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "BE31B7A4-AB7C-473F-9A09-3703A998C894"
+    },
+    {
+      "class": "text",
+      "id": "9A561247-4E9F-4DAA-B679-8340EFFF9C04"
+    },
+    {
+      "class": "text",
+      "id": "703903A3-ED54-4B31-9D53-63D8822A202C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "99C75D28-A10D-41D7-A731-710A1AF9D829"
+    },
+    {
+      "class": "bitmap",
+      "id": "68ED0D89-667D-4871-AFD2-E90FA99CEF22"
+    }
+  ],
+  "name": "HEADER NISSAN EN",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

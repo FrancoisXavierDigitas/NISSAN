@@ -14,8 +14,8 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 44,
-    "width": 357,
-    "x": 0,
+    "width": 312,
+    "x": 45,
     "y": 341
   },
   "hasClickThrough": false,
@@ -30,12 +30,8 @@
       "id": "CB722187-5BE5-4DE7-92F4-BA42BEAD9314"
     },
     {
-      "class": "text",
-      "id": "C3076ECC-8BC7-47D8-A084-CDC15F0F0280"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "4C9EC688-9C7E-4B62-B065-0E75842AF2F6"
+      "class": "group",
+      "id": "971CF913-B830-462A-AF88-5DC1DCDD021D"
     }
   ],
   "name": "button",

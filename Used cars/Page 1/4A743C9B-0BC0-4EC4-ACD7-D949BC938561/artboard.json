@@ -11,6 +11,15 @@
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -26,7 +35,7 @@
     "y": -899
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -39,7 +48,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "bitmap",
@@ -56,6 +65,10 @@
     {
       "class": "symbolInstance",
       "id": "528ADEE6-BA9A-4E32-87E9-99E771498B2C"
+    },
+    {
+      "class": "group",
+      "id": "37BDAA2E-103E-4A5F-86F2-D6FC06EAB4F9"
     },
     {
       "class": "symbolInstance",
@@ -79,6 +92,14 @@
     },
     {
       "class": "group",
+      "id": "5D68FEB4-63EE-4C5E-8F7D-03A472D1C755"
+    },
+    {
+      "class": "text",
+      "id": "98B2CFE5-177D-4E9A-88DA-2E29012505D2"
+    },
+    {
+      "class": "group",
       "id": "D2A04AD8-EC9C-440E-B44F-CA51C0704CBE"
     },
     {
@@ -88,6 +109,18 @@
     {
       "class": "group",
       "id": "9A2CB2D6-A628-407E-BF69-A516866FA09A"
+    },
+    {
+      "class": "group",
+      "id": "7F740E1E-7A56-4105-A096-6D68AAB25B27"
+    },
+    {
+      "class": "group",
+      "id": "435E9BF9-400F-4397-81B4-68E20002C08B"
+    },
+    {
+      "class": "group",
+      "id": "538BBA71-8961-4D9B-B3C9-84711F02D289"
     }
   ],
   "name": "Tablet-SearchResults",

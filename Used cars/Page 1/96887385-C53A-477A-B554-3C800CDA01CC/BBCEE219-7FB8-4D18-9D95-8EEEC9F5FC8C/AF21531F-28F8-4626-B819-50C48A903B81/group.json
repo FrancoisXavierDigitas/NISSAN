@@ -1,0 +1,54 @@
+{
+  "_class": "group",
+  "do_objectID": "AF21531F-28F8-4626-B819-50C48A903B81",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 187,
+    "width": 280,
+    "x": 0,
+    "y": 72
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "BAFE06FF-3574-43A8-85BF-FC54D5D70D53"
+    },
+    {
+      "class": "group",
+      "id": "24D16EAF-1D73-416A-9936-0489BB85280A"
+    },
+    {
+      "class": "group",
+      "id": "F260CADE-0352-42F7-B5BA-EE602E10C8A7"
+    }
+  ],
+  "name": "car image 1 copy",
+  "nameIsFixed": true,
+  "originalObjectID": "CBBF6642-7640-4A32-B988-ED013B775BC6",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

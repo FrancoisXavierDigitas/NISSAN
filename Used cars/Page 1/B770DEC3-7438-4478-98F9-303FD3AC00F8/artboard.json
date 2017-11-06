@@ -11,6 +11,15 @@
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -20,13 +29,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 2881,
+    "height": 2964,
     "width": 320,
     "x": -690,
     "y": -899
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -39,7 +48,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "bitmap",
@@ -82,6 +91,10 @@
       "id": "F7DA518D-E4BB-43DD-9D5C-71699F71E305"
     },
     {
+      "class": "group",
+      "id": "B8C2B0AD-2517-44A3-BDF3-219D140CF2EA"
+    },
+    {
       "class": "symbolInstance",
       "id": "D34343A7-17A5-445C-A6CF-AF14D96B24BD"
     },
@@ -99,7 +112,11 @@
     },
     {
       "class": "group",
-      "id": "5C46EB2D-9374-4C53-A717-3AAC336DEFF6"
+      "id": "F95807C0-AFC3-4893-BECF-F39B26F5FA8F"
+    },
+    {
+      "class": "text",
+      "id": "110003B1-172B-408D-A99A-8FD6F7B93CC8"
     }
   ],
   "name": "Mobile-SearchResults",

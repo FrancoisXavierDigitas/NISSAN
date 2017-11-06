@@ -1,0 +1,62 @@
+{
+  "_class": "group",
+  "do_objectID": "28C30587-CAF2-43EA-AEDE-E9DE611AB207",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 326,
+    "width": 489,
+    "x": 212,
+    "y": 101
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "5A45D890-00A4-4AC2-BF8B-E401C1E7D9CF"
+    },
+    {
+      "class": "group",
+      "id": "4C893285-D5D4-4395-AEF9-03BDE9467A43"
+    },
+    {
+      "class": "group",
+      "id": "44F1E6AF-9754-4259-81E3-C088E6CC6549"
+    }
+  ],
+  "name": "car image 1",
+  "nameIsFixed": true,
+  "originalObjectID": "CBBF6642-7640-4A32-B988-ED013B775BC6",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 15,
+      "type": 0
+    },
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
